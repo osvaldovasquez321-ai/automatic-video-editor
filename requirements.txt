@@ -1,0 +1,2 @@
+# Dependencias de Python: el script usa únicamente la biblioteca estándar.
+# Requisito del sistema: FFmpeg (https://ffmpeg.org/download.html)
